@@ -8,6 +8,7 @@ var Timer = require('Timer');
 
 // load foundation
 require('style!css!foundation-sites/dist/css/foundation.min.css')
+
 $(document).foundation();
 
 // app css
